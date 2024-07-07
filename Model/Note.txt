@@ -1,0 +1,2 @@
+The File Model_test is for Model1 (ViT Finetuning for each type of text)
+If you want to evaluate other model (model2, 3), then you should edit the file.
